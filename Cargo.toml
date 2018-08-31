@@ -1,0 +1,6 @@
+[package]
+name = "rust_ciaa_z3r0"
+version = "0.1.0"
+authors = ["elsuizo <mnoblia@disroot.org>"]
+
+[dependencies]
